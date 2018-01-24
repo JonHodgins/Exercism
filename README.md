@@ -1,3 +1,3 @@
 # Exercism
 
-test
+http://exercism.io/about
