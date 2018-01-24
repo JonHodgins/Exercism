@@ -1,3 +1,3 @@
-# Learning-Java
+# Exercism
 
 test
